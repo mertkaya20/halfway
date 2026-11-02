@@ -1,0 +1,1 @@
+Halfway: a project board with tasks in To do, In progress and Done columns.
